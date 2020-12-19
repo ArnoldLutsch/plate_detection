@@ -1,2 +1,0 @@
-File selection from:
-https://github.com/quangnhat185/Plate_detect_and_recognize
