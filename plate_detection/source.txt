@@ -1,2 +1,2 @@
-Source files for plate_detection from:
+files for plate_detection from:
 https://github.com/quangnhat185/Plate_detect_and_recognize
